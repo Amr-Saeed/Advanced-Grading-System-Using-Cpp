@@ -1,0 +1,67 @@
+mohamed_Number_(2181) Electronics 120 Math 125 Random 100 Matlab 100 Electromagnetic 125
+
+Amr_Number_(2190) Electronics 125 Math 125 Random 100 Matlab 100 Electromagnetic 125
+
+youssef_Number_(2191) Electronics 100 Math 90 Random 48 Matlab 29 Electromagnetic 75
+
+
+
+
+mohamed_Number_(2181) Electronics 111 Math 125 Random 100 Matlab 100 Electromagnetic 125
+
+
+
+mohamed_Number_(2188) Electronics 0 Math 0 Random 0 Matlab 0 Electromagnetic 0
+
+mo_Number_(2190) Electronics 15 Math 15 Random 100 Matlab 100 Electromagnetic 125
+
+Amr_Number_(2190) Electronics 125 Math 125 Random 100 Matlab 100 Electromagnetic 125
+
+mohamed_Number_(2184) Electronics 115 Math 125 Random 100 Matlab 100 Electromagnetic 125
+
+b_Number_(2128) Electronics 50 Math 45 Random 21 Matlab 30 Electromagnetic 30
+
+j_Number_(2128) Electronics 56 Math 44 Random 20 Matlab 30 Electromagnetic 30
+
+l_Number_(2128) Electronics 51 Math 42 Random 20 Matlab 30 Electromagnetic 30
+
+o_Number_(2128) Electronics 55 Math 42 Random 20 Matlab 30 Electromagnetic 30
+
+p_Number_(2128) Electronics 54 Math 41 Random 20 Matlab 30 Electromagnetic 30
+
+c_Number_(218) Electronics 20 Math 20 Random 20 Matlab 20 Electromagnetic 30
+
+v_Number_(218) Electronics 20 Math 20 Random 20 Matlab 20 Electromagnetic 40
+
+Ahmed_Number_(2128) Electronics 40 Math 49 Random 20 Matlab 30 Electromagnetic 30
+
+mohamed_Number_(218) Electronics 40 Math 43 Random 25 Matlab 25 Electromagnetic 36
+
+d_Number_(2197) Electronics 15 Math 15 Random 80 Matlab 80 Electromagnetic 100
+
+f_Number_(21956) Electronics 15 Math 15 Random 80 Matlab 89 Electromagnetic 104
+
+e_Number_(21950) Electronics 15 Math 15 Random 78 Matlab 88 Electromagnetic 102
+
+i_Number_(2181) Electronics 111 Math 100 Random 80 Matlab 80 Electromagnetic 90
+
+u_Number_(2181) Electronics 111 Math 100 Random 85 Matlab 81 Electromagnetic 91
+
+y_Number_(2181) Electronics 111 Math 100 Random 84 Matlab 81 Electromagnetic 90
+
+t_Number_(2181) Electronics 106 Math 100 Random 83 Matlab 83 Electromagnetic 88
+
+r_Number_(2181) Electronics 115 Math 100 Random 70 Matlab 68 Electromagnetic 90
+
+
+
+
+ar_Number_(2181) Electronics 82 Math 82 Random 80 Matlab 80 Electromagnetic 82
+
+ag_Number_(2181) Electronics 82 Math 82 Random 82 Matlab 83 Electromagnetic 85
+
+af_Number_(2181) Electronics 82 Math 82 Random 78 Matlab 79 Electromagnetic 80
+
+ad_Number_(2181) Electronics 82 Math 82 Random 84 Matlab 85 Electromagnetic 86
+
+as_Number_(2181) Electronics 82 Math 82 Random 75 Matlab 85 Electromagnetic 83
